@@ -1,6 +1,6 @@
 # Scrum Master 1
-## Übersetzung der Themen auf Deutsch von scrum.org zum Lernen
-habe hier mal versucht die Themen auf deutsch zu übersetzten.
+## Themen auf Deutsch zum Lernen
+habe hier mal versucht die Themen auf deutsch zu erstellen.
 
 Tasks
-- die dateinamen sin noch englisch. die solle naber auch noch übersetzt werden
+- die dateinamen sin noch englisch. die sollen aber auch noch übersetzt werden
