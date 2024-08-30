@@ -2,9 +2,7 @@ https://www.scrum.org/learning-series/scrum-team
 
 # Das Scrum-Team
 > Das Scrum-Team ist eine kleine Gruppe von Fachleuten, die auf das Erreichen des Produktziels fokussiert ist. Es besteht aus:
-
 >**Product Owner**, **Scrum Master**, **Entwickler**
-
 > Jeder hat klare Verantwortlichkeiten. Diese werden nicht als „Rollen“ bezeichnet, um Missverständnisse zu vermeiden, dass es sich um feste Positionen handelt.
 
 ## Was ist das Scrum Team?
