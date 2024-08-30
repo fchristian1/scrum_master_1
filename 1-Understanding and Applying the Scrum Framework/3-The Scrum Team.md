@@ -29,6 +29,8 @@ Erfahre mehr über die Verantwortlichkeiten des Product Owners, der Entwickler u
 5. **Nicht-hierarchisch:** Handeln als ein Team ohne Sub-Teams oder organisatorische Hierarchie.
 6. **Verantwortlich:** Das gesamte Team ist für den Erfolg bei der Erstellung eines wertvollen und nützlichen Inkrements in jedem Sprint verantwortlich.
 
+![Merkmale Scrum Team](/files/scrum-team-15.svg)
+
 ## **Verantwortlichkeiten, Aufgaben und Rollen**
 
 Im Scrum-Framework werden Scrum Master, Product Owner und Entwickler als "Verantwortlichkeiten" und nicht als "Rollen" beschrieben. Dies betont den ergebnisorientierten Ansatz und die klaren Verantwortlichkeiten innerhalb des Teams, anstatt organisatorische Strukturen zu betonen.
