@@ -18,7 +18,7 @@ Ein Scrum-Team ist eine kleine Gruppe (typischerweise 10 oder weniger Personen),
 Jeder im Scrum-Team ist für bestimmte Aspekte der Teamarbeit verantwortlich. Das gesamte Scrum-Team ist dafür verantwortlich, in jedem Sprint ein wertvolles, nützliches Increment zu liefern. Der Product Owner, die Entwickler und der Scrum Master haben jeweils spezifische Verantwortlichkeiten.
 
 Erfahre mehr über die Verantwortlichkeiten des Product Owners, der Entwickler und des Scrum Masters.
-![Scrum-Team](/files/scrum-team-10.svg.svg)
+![Scrum-Team](/files/scrum-team-10.svg)
 
 ## **Wesentliche Merkmale von Scrum-Teams**
 
