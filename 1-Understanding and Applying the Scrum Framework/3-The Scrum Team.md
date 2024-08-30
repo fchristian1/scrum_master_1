@@ -38,6 +38,8 @@ Im Scrum-Framework werden Scrum Master, Product Owner und Entwickler als "Verant
 - **Aufgabe:** Die Verpflichtung, eine Aufgabe zu erledigen. Oft geht es um die Ausführung der Arbeit und die Erstellung ihrer Ergebnisse.
 - **Verantwortlichkeit:** Die Übernahme der Verantwortung für die Ergebnisse oder Ergebnisse der Arbeit. Die Bereitschaft, die Konsequenzen zu tragen und für die getroffenen Entscheidungen verantwortlich zu sein.
 
+![Aufagen](/files/scrum-team-20.svg)
+
 **Verantwortlichkeiten im Scrum:**
 
 1. **Erstellung eines wertvollen, nützlichen Inkrements:** Das gesamte Scrum-Team
