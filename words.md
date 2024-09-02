@@ -54,7 +54,6 @@
 | Scrum Framework                  | Scrum-Rahmenwerk                 | Das Set an Regeln und Praktiken, die Scrum definieren.                                             |
 | Scrum Guide                      | Scrum Guide                      | Das offizielle Dokument von Scrum, das die Regeln, Prinzipien und Rollen von Scrum beschreibt und als Referenz für die Implementierung dient. |
 | Scrum Master                     | Scrum Master                     | Die Person, die das Scrum-Team unterstützt und dafür sorgt, dass die
-
  Scrum-Praktiken eingehalten werden. |
 | Scrum Pillars                    | Scrum-Säulen                     | Die drei Säulen von Scrum: Transparenz, Inspektion und Anpassung, die den Prozess unterstützen und sicherstellen, dass das Team effektiv arbeitet. |
 | Scrum Process                    | Scrum-Prozess                    | Die spezifischen Schritte und Methoden, die in Scrum verwendet werden, um das Projektziel zu erreichen. |
