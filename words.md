@@ -18,7 +18,7 @@
 | Definition of Ready              | Definition of Ready              | Kriterien, die erfüllt sein müssen, damit eine User Story bereit ist, in einen Sprint aufgenommen zu werden. |
 | Dev Team                         | Entwicklungsteam                 | Das Team, das die Arbeit in einem Sprint durchführt, um das Produktinkrement zu erstellen.         |
 | Done                             | Done                             | Der Status eines Arbeitspakets oder Features, das die Definition of Done erfüllt hat und somit als abgeschlossen gilt. |
-| Empiricism                       | Empirie                          | Der Ansatz, Entscheidungen basierend auf Erfahrungen und tatsächlichen Ergebnissen zu treffen, anstatt auf Annahmen. Im Scrum wird empirisches Arbeiten durch regelmäßige Überprüfungen und Anpassungen gefördert. |
+| Empiricism                       | Empirismus                       | Der Ansatz, Entscheidungen basierend auf Erfahrungen und tatsächlichen Ergebnissen zu treffen, anstatt auf Annahmen. Im Scrum wird empirisches Arbeiten durch regelmäßige Überprüfungen und Anpassungen gefördert. |
 | Epic                             | Epic                             | Eine große User Story, die in kleinere Stories unterteilt wird.                                    |
 | event                            | Event                            | Ein Ereignis im Scrum-Prozess, wie ein Sprint-Planning, Daily Scrum, Sprint Review oder Sprint Retrospective. |
 | Feature                          | Funktionalität                   | Eine spezifische Funktion oder ein Merkmal des Produkts, das aus User Stories resultiert.          |
