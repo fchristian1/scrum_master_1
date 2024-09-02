@@ -19,14 +19,14 @@
 | Dev Team                         | Entwicklungsteam                 | Das Team, das die Arbeit in einem Sprint durchführt, um das Produktinkrement zu erstellen.         |
 | Done                             | Done                             | Der Status eines Arbeitspakets oder Features, das die Definition of Done erfüllt hat und somit als abgeschlossen gilt. |
 | Empiricism                       | Empirismus                       | Der Ansatz, Entscheidungen basierend auf Erfahrungen und tatsächlichen Ergebnissen zu treffen, anstatt auf Annahmen. Im Scrum wird empirisches Arbeiten durch regelmäßige Überprüfungen und Anpassungen gefördert. |
-| Epic                             | Epic                             | Eine große User Story, die in kleinere Stories unterteilt wird.                                    |
+| Epic                             | Episches                         | Eine große User Story, die in kleinere Stories unterteilt wird.                                    |
 | event                            | Event                            | Ein Ereignis im Scrum-Prozess, wie ein Sprint-Planning, Daily Scrum, Sprint Review oder Sprint Retrospective. |
 | Feature                          | Funktionalität                   | Eine spezifische Funktion oder ein Merkmal des Produkts, das aus User Stories resultiert.          |
 | feedback                         | Feedback                         | Rückmeldungen zur Arbeit oder zum Prozess, die helfen, Verbesserungen zu identifizieren und die Produktqualität zu erhöhen. Feedback wird regelmäßig in Scrum-Meetings gegeben. |
 | Focus                            | Fokus                            | Konzentration auf die wichtigsten Aufgaben und Ziele während eines Sprints, um sicherzustellen, dass das Team seine Ziele erreicht. |
 | forecast                         | Vorhersage                       | Prognose über den zukünftigen Fortschritt oder die Leistung, basierend auf bisherigen Daten und Erfahrungen. Im Scrum wird dies oft in Form von Sprint-Planung und -Zielen verwendet. |
 | framework                        | Rahmenwerk                       | Die Struktur und die Regeln, die den Scrum-Prozess definieren. Scrum ist ein Rahmenwerk, das die Prozesse für das agile Arbeiten beschreibt. |
-| Increment                        | das Increment                    | Das Ergebnis eines Sprints, das eine nutzbare und potenziell auslieferbare Produktversion darstellt. Jedes Increment baut auf dem vorherigen auf. |
+| Increment                        | Das Increment                    | Das Ergebnis eines Sprints, das eine nutzbare und potenziell auslieferbare Produktversion darstellt. Jedes Increment baut auf dem vorherigen auf. |
 | Incremental Delivery             | Inkrementelle Lieferung          | Die Methode, bei der das Produkt schrittweise durch kleine, funktionale Updates verbessert wird.   |
 | inspect & adapt                  | Überprüfung und Anpassung        | Der Prozess, bei dem das Team regelmäßig den Fortschritt und die Arbeitsweise überprüft und notwendige Anpassungen vornimmt, um die Effizienz und Effektivität zu verbessern. |
 | inspection                       | Überprüfung                      | Die regelmäßige Bewertung des Fortschritts und der Qualität von Arbeitspaketen, um sicherzustellen, dass sie den Anforderungen entsprechen. |
